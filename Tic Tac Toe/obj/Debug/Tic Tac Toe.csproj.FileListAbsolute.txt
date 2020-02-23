@@ -1,0 +1,6 @@
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+D:\c#\tic tac toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
